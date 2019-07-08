@@ -20,8 +20,7 @@ TODO: 私がシューティングゲームが好きなので作ろうと思い�
 
 ## License
 
-The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+Source　code is available under the Creative Commons Attribution-ShareAlike License cc by Ryuya I 2019
 ## Code of Conduct
 
 Everyone interacting in the Test project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/processing_templates/blob/master/CODE_OF_CONDUCT.md).
